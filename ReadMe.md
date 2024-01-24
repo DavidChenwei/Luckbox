@@ -9,7 +9,7 @@
 - Calculate the actual revenue the streamer gets from the gift.
 - Monitor the money that live streamers need to return to the audience in the live room.
 - Calculate the difference between the income obtained from the gift and the actual expenditure to achieve the purpose of monitoring the income of live streamers in real-time.
-- Set your own refund amount
+- Set your own refund amount。
 - Monitor the number of special gifts appeared across the platform and which live room they appeared from.
 
 # How to use
