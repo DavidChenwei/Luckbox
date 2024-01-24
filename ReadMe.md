@@ -1,7 +1,7 @@
 # Introducation
 - This application can help live streamers who are on Penguin Esports platform to calculate their profit in real-time.
 - The UI part is implemented by pyqt5.
-- As there is no UI designer to help me design a beautiful UI, the interface of the application looks not very nice. However, it's still a really useful tool
+- As there is no UI designer to help me design a beautiful UI, the interface of the application looks not very nice. However, it's still a really useful tool。
 - The bad news is that Penguin Esports went out of business on July 6, and the software can no longer be used on this platform. But its design ideas can be used for other more similar live platforms
 
 # Functions
